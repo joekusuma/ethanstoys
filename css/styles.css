@@ -1,11 +1,11 @@
 @font-face {
 	font-family: 'Open Sans';
-	src: URL('Open_Sans/static/OpenSans-Regular.ttf') format('truetype');
+	src: URL('../Open_Sans/static/OpenSans/OpenSans-Regular.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'Pacifico';
-	src: URL('Pacifico/Pacifico-Regular.ttf') format('truetype');
+	src: URL('../Pacifico/Pacifico-Regular.ttf') format('truetype');
 }
 
 body {
